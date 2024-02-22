@@ -1,0 +1,45 @@
+@media only screen and (max-width: 600px) {
+    .title-content {
+      color: #49c2ff !important;
+    }
+  }
+
+@media only screen and (max-width: 400px) {
+    .staking-amount {
+        font-size: 18px !important;
+    }
+}
+
+@media only screen and (max-width: 365px) {
+    .staking-amount {
+        font-size: 16px !important;
+    }
+}
+
+@media only screen and (max-width: 336px) {
+    .staking-amount {
+        font-size: 14px !important;
+    }
+}
+
+@media only screen and (max-width: 320px) {
+    .staking-amount {
+        font-size: 12px !important;
+    }
+}
+
+@media only screen and (max-width: 375px) {
+    .select-period {
+        font-size: 16px !important;
+    }
+}
+
+@media only screen and (max-width: 330px) {
+    .select-period {
+        font-size: 14px !important;
+    }
+}
+
+.home_ddawgs {
+    width: 80%;
+}
